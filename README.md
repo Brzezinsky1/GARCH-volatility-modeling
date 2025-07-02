@@ -1,2 +1,2 @@
 # GARCH-volatility-modeling
-Implementation and comparison of GARCH models for forecasting portfolio volatility
+The aim of the project is to estimate Value-at-Risk (VaR) of a portfolio consisting of five financial instruments on the basis of two GARCH-family models.
